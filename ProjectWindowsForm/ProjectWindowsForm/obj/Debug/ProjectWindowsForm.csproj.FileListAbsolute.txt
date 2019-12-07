@@ -1,0 +1,9 @@
+C:\Users\nel_2\Documents\windowsForm\ProjectWindowsForm\ProjectWindowsForm\bin\Debug\ProjectWindowsForm.exe.config
+C:\Users\nel_2\Documents\windowsForm\ProjectWindowsForm\ProjectWindowsForm\bin\Debug\ProjectWindowsForm.exe
+C:\Users\nel_2\Documents\windowsForm\ProjectWindowsForm\ProjectWindowsForm\bin\Debug\ProjectWindowsForm.pdb
+C:\Users\nel_2\Documents\windowsForm\ProjectWindowsForm\ProjectWindowsForm\obj\Debug\ProjectWindowsForm.csprojAssemblyReference.cache
+C:\Users\nel_2\Documents\windowsForm\ProjectWindowsForm\ProjectWindowsForm\obj\Debug\ProjectWindowsForm.interfaceReembolso.resources
+C:\Users\nel_2\Documents\windowsForm\ProjectWindowsForm\ProjectWindowsForm\obj\Debug\ProjectWindowsForm.Properties.Resources.resources
+C:\Users\nel_2\Documents\windowsForm\ProjectWindowsForm\ProjectWindowsForm\obj\Debug\ProjectWindowsForm.csproj.GenerateResource.cache
+C:\Users\nel_2\Documents\windowsForm\ProjectWindowsForm\ProjectWindowsForm\obj\Debug\ProjectWindowsForm.exe
+C:\Users\nel_2\Documents\windowsForm\ProjectWindowsForm\ProjectWindowsForm\obj\Debug\ProjectWindowsForm.pdb
